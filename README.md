@@ -1,4 +1,14 @@
-# Lambda Players
+# Lambda Players Forked
+
+> **Note**
+>
+> the repository has forked from @IcyStarFrost's Lambda Players.
+> 
+> the fork used/purpose for fixing, adding features or something else.
+>
+> below is Original `README.md`;
+
+---
 
 A sequel to Zeta Players with code that is designed to be more performant, module, and multiplayer friendly. Overall a massive upgrade from Zeta Players in every way.
 
